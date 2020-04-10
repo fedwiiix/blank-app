@@ -1,0 +1,89 @@
+/* fallback */
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../libs/font/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2) format('woff2');
+}
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+
+.collection {
+  text-align: left;
+}
+
+h5 {
+  padding: 50px 0 50px 20px ;
+}
+
+h6 {
+  font-weight:bold;
+  text-align:center;
+}
+
+.s20 {
+  width: 16.66%!important;
+}
+
+@media only screen and (max-width: 800px) {
+  .container {
+    width:100%!important;
+  }
+  .hideForPhone {
+    display:none;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .hideForPhone {
+    display:none;
+  }
+}
+
+
+/*
+.collection {
+  text-align: left;
+}
+
+h5 {
+  padding: 50px 0 50px 20px ;
+}
+
+h6 {
+  font-weight:bold;
+  text-align:center;
+}
+
+.s20 {
+  width: 16.66%!important;
+}
+
+@media only screen and (max-width: 800px) {
+  .container {
+    width:100%!important;
+  }
+  .hideForPhone {
+    display:none;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .hideForPhone {
+    display:none;
+  }
+}
+*/
